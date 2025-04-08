@@ -1,18 +1,10 @@
-* {
-    padding: 10px;
-}
+/* Create 3 heading with h1,h2,h3.Give them all a class "heading" & set color of "heading" to red. */
 
-
-h1 {
-    color: red;
-}
-
-
-button {
-    color: rgb(11, 11, 12);
-    background-color: rgb(166, 228, 22);
-}
 
 body {
-    background-color: rgb(155, 243, 214);
+    color: antiquewhite;
+}
+
+.heading {
+    color: red;
 }
